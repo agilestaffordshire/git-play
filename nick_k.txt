@@ -1,1 +1,6 @@
-**change**
+
+git remote -v
+git status
+git add <file>
+git log # list commit history
+git pull --rebase
