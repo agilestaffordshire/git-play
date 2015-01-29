@@ -4,3 +4,8 @@ git status
 git add <file>
 git log # list commit history
 git pull --rebase
+
+
+
+add 'age: 21'
+add 'name: nick'
