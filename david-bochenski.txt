@@ -1,1 +1,2 @@
 HELLO David Bochenski!
+Everyone should use rebase -i on their own branch
